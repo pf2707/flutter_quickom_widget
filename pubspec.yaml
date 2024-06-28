@@ -1,5 +1,5 @@
 name: flutter_quickom_widget
-description: "A new Flutter project."
+description: "A widget helps quick integration to Quickom service"
 version: 0.0.1
 homepage: https://quickom.com
 repository: https://github.com/pf2707/flutter_quickom_widget
